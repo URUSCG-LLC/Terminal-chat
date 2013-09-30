@@ -2,6 +2,7 @@ Terminal-chat
 =============
 
 Chat in terminal. Made in java.		
+		
 		javac Server.java
 		java <any portnumber>
 
